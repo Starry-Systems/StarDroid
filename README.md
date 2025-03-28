@@ -1,2 +1,2 @@
 # StarDroid
-Starry System's Custom Android Run
+Starry System's Custom Android ROM
